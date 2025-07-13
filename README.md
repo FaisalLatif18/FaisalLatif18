@@ -15,26 +15,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🚀 Appomatory — Full Stack Developer
-*Jul 2024 – Present | Doha, Qatar*
-
-- Building and maintaining modules for a no-code mobile app builder platform.
-- Developing real-time preview features and automated publishing to app stores.
-- Working with MERN stack, Redis, OpenAI APIs, AWS, and Socket.io.
-
----
-
-### 💳 I2C Inc. — Software Engineer
-*Jan 2023 – Jul 2024 | Lahore, Pakistan*
-
-- Developed fintech solutions for banking, digital wallets, and payment systems.
-- Built reward campaign modules using Spring Boot, Micro Services, Core Java, Informix, and React.js.
-- Implemented CSV/XLSX bulk processing and advanced filtering features.
-
----
-
 ## 🚀 Projects
 
 ### Personal Portfolio
@@ -42,16 +22,6 @@
 Responsive website to showcase my experience and projects.
 
 🔗 [View Live Portfolio](https://my-portfolio-five-ivory-32.vercel.app)
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-FAST-NUCES, Lahore, Pakistan  
-*Aug 2018 – Jul 2022*
-
-- Focus: Algorithms, Data Structures, Object Oriented Programming
 
 ---
 
