@@ -6,7 +6,7 @@
 
 ## 🛠️ Technical Skills
 
-- **Frontend:** React.js, Angular, HTML, CSS, JSP
+- **Frontend:** React.js, Angular, Next.js, HTML, CSS, JSP, ReactNative
 - **Backend:** Java, Spring Boot, Micro Services, Node.js, Express.js, C++
 - **Databases:** MySQL, MongoDB, Informix
 - **DevOps & Tools:** Git, Docker, AWS, Kafka, Redis
